@@ -19,7 +19,7 @@ I focused on replicating real-world structure, and also **added interactive anim
 
 ## 🔗 Live Demo:
 
-[👉 View the Live Site](https://tech-harshad.github.io/Amazon-Frontpage-Clone/)
+[👉 View the Live Site] (https://tech-harshad.github.io/Amazon-Frontpage-Clone/)
 
 
 ## 📁 Technologies Used:
