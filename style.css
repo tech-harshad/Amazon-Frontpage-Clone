@@ -15,7 +15,7 @@
     justify-content: space-evenly;
 }
 .logo{
-    background-image: url(.logo.png);
+    background-image: url(logo.png);
     background-size: cover;
     height: 50px;
     width: 100px;
